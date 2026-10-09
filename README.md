@@ -30,11 +30,11 @@ This project was built while learning web development and putting **HTML, CSS, a
 
 ## 🌐 Live Website
 
-[**Visit Artiva Studio**](https://devirashi398-max.github.io/my-first-website/)
+[**Visit Artiva Studio**](https://devirashi398-max.github.io/-first-website/)
 
 ## 📸 Preview
 
-[**Artiva Studio Preview**](https://github.com/devirashi398-max/my-first-website/blob/main/screenshot.png)
+[**Artiva Studio Preview**](https://github.com/devirashi398-max/-first-website/blob/main/screenshot.png)
 
 ## 📂 Project Structure
 
