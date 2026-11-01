@@ -11,7 +11,6 @@ This project was built while learning web development and putting **HTML, CSS, a
 * 🖌️ Features section
 * 🖼️ Artwork gallery
 * 🔍 Click on an artwork to view it larger
-* ❤️ Like buttons with a live like counter
 * 🌙 Dark and light mode
 * 📱 Mobile navigation menu
 * 💡 About section
@@ -38,7 +37,7 @@ This project was built while learning web development and putting **HTML, CSS, a
 
 ## 📂 Project Structure
 
-```text
+
 my-first-website/
 │
 ├── index.html
@@ -59,7 +58,7 @@ my-first-website/
 ├── img6.jpg
 ├── screenshot.png
 └── README.md
-```
+
 
 ## 🎯 What I Practiced
 
@@ -72,8 +71,8 @@ While making this project, I practiced:
 * Hover effects and animations
 * JavaScript events
 * DOM manipulation
-* `if/else` conditions
-* `classList.toggle()`
+* if/else conditions
+* classList.toggle()
 * Form validation
 * Image preview
 * Like buttons and counters
